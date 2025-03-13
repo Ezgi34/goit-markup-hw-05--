@@ -567,6 +567,7 @@ menu:active{
     font-weight: 400;
 }
 /*popup*/
+
 .popup{
     position: fixed;
     z-index: 2;
@@ -702,14 +703,14 @@ input[type="checkbox"]:checked + label .form-check-span {
 }
 .form-box{
     margin-bottom: 8px;
-    /**/
+    
 }
 .form-box-tex{
     margin-bottom: 16px;
 }
 .checkbox{
     margin-right: 8px;
-    
+
 }
 .form-input{
     display: block;
